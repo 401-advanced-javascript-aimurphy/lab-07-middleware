@@ -1,20 +1,15 @@
 {
-  "name": "lab-07-middleware",
+  "name": "test-practice",
   "version": "1.0.0",
-  "description": "express server middleware",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/401-advanced-javascript-aimurphy/lab-07-middleware.git"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/401-advanced-javascript-aimurphy/lab-07-middleware/issues"
-  },
-  "homepage": "https://github.com/401-advanced-javascript-aimurphy/lab-07-middleware#readme"
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
