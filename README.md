@@ -7,7 +7,7 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-aimurphy/lab-07-middleware/pull/4)
 * [![Build Status](https://travis-ci.com/401-advanced-javascript-aimurphy/lab-07-middleware.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aimurphy/lab-07-middleware)
-* [server.js]
+* [API-server](https://github.com/401-advanced-javascript-aimurphy/lab-07-api-server/blob/master/README.md)
 
 #### Documentation
 * [express](https://www.npmjs.com/package/express)
